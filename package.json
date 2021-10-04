@@ -1,0 +1,25 @@
+{
+  "name": "W9D1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keginzburg/W9D1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keginzburg/W9D1/issues"
+  },
+  "homepage": "https://github.com/keginzburg/W9D1#readme",
+  "dependencies": {
+    "webpack": "^5.56.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
